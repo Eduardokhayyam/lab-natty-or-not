@@ -1,51 +1,50 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Crystal Dragon Encounter
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Uma pequena novel de uma breve batalha contra um dragão em um mundo de fantasia criada a partir de um chatbot.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+NovelAI 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Ajudei a NovelAI a criar está pequena novel escolhendo as decisões de alguns personagens e como o resto da cena ocorreria.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+The splendor before my eyes left me breathless, a vaulted ceiling painted with scenes from an ancient tale; tapestries that stretched across three walls depicting tales of heroes long dead.
+However, as fate would have it, I was thoroughly distracted by the flurry of magic explosions obliterating my vision every time a magic spell hit its target: the dragon. After all, I was a mere human in the company of two magical beings, my companion Galena, a witch, and a fearsome crystal dragon. My presence here was not only an honor but also a grave danger.
+"You know what to do, right?!" Galena shouted at me as she threw another fireball at the dragon's head.
+I had been tasked with assisting Galena on this quest to save the world from the evil of a dragon. But how could I possibly help?
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
+
+You run away from the Dragon, leaving Galena alone.
+No! I couldn't just leave Galena behind and run off. But what could I do?
+You're searching for a stronger adventure to help us.
+"Help!" you shout at the top of your lungs, hoping that someone, somewhere, will hear you and come to your rescue.
+"Hey, you! What are you doing?" asks a woman standing nearby.
+You ehxausted you say for her "PLEASE, HELP!!! My friend is fighting against a powerful dragon!"
+She looks at you with pity a moment, then shakes her head.
+"Why did you bring us into this mess?"
+The woman turns and walks away.
+I can't blame her. I'm sure she's had her fair share of crazy people.
+"Galena, wait!" I shout, trying to get her attention.
+You in fear you brand your sword and jumping on the dragon, you swing your swrod upon him.
+The dragon roars and snaps its jaws, trying to bite you in half. But your reflexes are faster and you jump to safety.
+As the dragon tries to regain its balance, you take advantage of the opportunity to attack again.
+You with a single blow, you cut the dragon's wings.
+You manage to cut off the dragon's wings and it tumbles forward, crashing into the ground.
+The dragon groans in pain and struggles to stand back up., while you swing you scream "PLEASE STOP!!"
+I close my eyes and let out a deep, guttural scream.
+You ask "Are you ok Galena?!"
+I look over at Galena, who has managed to stay alive somehow. She nods slowly and smiles.
+You ask "Are you really Galena?"
+"Who else could I be, silly?" she says, laughing.
+"I don't know. Maybe you're a doppelganger. Or maybe you're just an evil clone of Galena," I reply, trying to make sense of what's going on.
+
+
 ```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
